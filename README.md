@@ -14,7 +14,7 @@ I have 20+ years at the intersection of software engineering, data science, mach
 - Successful software entrepreneur
 - Python, R, Julia, JavaScript lover (equally, like my kids :-D)
 
-Colleagues have described me as a gifted data scientist, an extraordinary leader, kind-hearted, mission focused and exceptionally generous (see [LinkedIn recommendations](https://www.linkedin.com/in/johnmercer/).
+Colleagues have described me as a gifted data scientist, an extraordinary leader, kind-hearted, mission focused and exceptionally generous (see [LinkedIn recommendations](https://www.linkedin.com/in/johnmercer/)).
 
 - B.A. Economics (magna cum laude)
 - M.S. Statistics (magna cum laude)
