@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I have 20+ years at the intersection of software engineering, data science, machine learning and product leadership. Unfortunately, most of my work has been proprietary but I'm trying to find more time for open-source work!
+I have 20+ years at the intersection of software engineering, data science, machine learning and product leadership. Unfortunately, most of my work has been proprietary (and in other company specific github handles), but I'm trying to find more time for open-source work!
 
 #### Background
 
@@ -24,9 +24,9 @@ Colleagues have described me as a gifted data scientist, an extraordinary leader
 - Additional graduate level work in Management Science and Computer Science.
 
 #### Q&A
-- 🔭 I’m currently working on several projects spanning quantum system simulations, economic market evolution, and automated theorem proving 
-- 👯 I’m looking to consult on AI/ML/Quantum startups
-- 🤔 I’m looking to help others with data, software, ML/AI career advice
+- 🔭 Currently working on several projects spanning quantum system simulations, economic market evolution, and automated theorem proving 
+- 🕵️ Can provide expert executive consulting and hands-on work for AI/ML/Quantum startups
+- 🤔 Happy to provide advice to early-career data, software, ML/AI professionals 
 - 📫 How to reach me: john at starstuffventures dot com
-- ⚡ Fun fact: German Shepherd lover and trainer (volunteer at a rescue), and self-defense enthusiast (previous certified trainer)
+- ⚡ Fun fact: Former college hockey player and now a youth hockey coach, German Shepherd lover and trainer (volunteer at a rescue)
 
