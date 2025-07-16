@@ -1,6 +1,6 @@
-### Hi 👋
+### Welcome
 
-I have 20+ years at the intersection of software engineering, data science, machine learning and product leadership. Unfortunately, most of my work has been proprietary (and in other company specific github handles).
+👋 Hi, I’m John — a data science and ML/AI engineering hands-on leader with rare interdisciplinary skills and wisdom spanning diverse areas of science and tech, six industries and all company lifecycle stages. I’ve built and led high-performing software and ML/AI teams across SaaS startups/scaleups and larger enterprise, created an award-winning ML platform, patented innovations, and proven to achieve real-world business value from data science, machine learning and artificial intelligence.
 
 #### Background
 
@@ -21,11 +21,11 @@ Colleagues have described me as a gifted data scientist, an extraordinary leader
 - M.S. Physics (magna cum laude)
 - Graduate level Certificate in Data Science from Harvard (masters student part-time for 4 years)
 - 3 Udacity Nanodegrees: Deep Learning, Artificial Intelligence and Cloud Development. 
-- Additional graduate level work in Management Science and Computer Science.
+- Additional graduate work in Management Science and Computer Science.
 
 #### Q&A
 - 🕵️ Can provide expert executive consulting and hands-on work for AI/ML startups
 - 🤔 Happy to provide advice to early-career data, software, ML/AI professionals 
 - 📫 How to reach me: presci3nce at gmail dot com
-- ⚡ Fun fact: Former NCAA college hockey player and now a youth hockey coach
+- ⚡ Fun fact: Former NCAA college hockey player and now a championship winning youth hockey coach
 
